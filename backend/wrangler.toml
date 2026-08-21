@@ -1,0 +1,6 @@
+name = "mta-alerts-proxy"
+main = "src/index.js"
+compatibility_date = "2026-08-18"
+
+# Free tier is plenty for this use case.
+# Deploy with: npx wrangler deploy

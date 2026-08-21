@@ -1,0 +1,469 @@
+{
+  "feed": "lirr-alerts",
+  "fetchedAt": "2026-08-18T15:24:51.152Z",
+  "count": 19,
+  "alerts": [
+    {
+      "id": "lmm:planned_work:34086",
+      "routeIds": [
+        "12"
+      ],
+      "header": "Some LIRR trains will make added stops at Forest Hills for concert attendees",
+      "description": "You must be in one of the first four cars to exit at Forest Hills.\nTake your ticket with you as you leave the train, it will be checked at the station before you can exit.\n\nSee more details on getting to Forest Hills Stadium.",
+      "activePeriods": [
+        {
+          "start": 1787863500000,
+          "end": 1787887800000
+        },
+        {
+          "start": 1787949900000,
+          "end": 1787974200000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:34081",
+      "routeIds": [
+        "12"
+      ],
+      "header": "Some LIRR trains will make added stops at Forest Hills for concert attendees",
+      "description": "You must be in one of the first four cars to exit at Forest Hills.\nTake your ticket with you as you leave the train, it will be checked at the station before you can exit.\n\nSee more details on getting to Forest Hills Stadium.",
+      "activePeriods": [
+        {
+          "start": 1787428800000,
+          "end": 1787457540000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:34080",
+      "routeIds": [
+        "5"
+      ],
+      "header": "Montauk Branch trains run on a Sunday schedule",
+      "description": "The Sunday afternoon 1:46pm, 4:17pm, and 6:21pm westbound trains from Montauk, and the 3:25pm westbound train from Southampton, will run.",
+      "activePeriods": [
+        {
+          "start": 1788753600000,
+          "end": 1788839940000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:34079",
+      "routeIds": [
+        "5"
+      ],
+      "header": "Montauk Branch trains run on a Saturday schedule",
+      "description": "The Sunday afternoon 1:46pm, 4:17pm, and 6:21pm westbound trains from Montauk, and the 3:25pm westbound train from Southampton, will not run.\n\nThese trains will instead run on Monday, September 7.",
+      "activePeriods": [
+        {
+          "start": 1788714000000,
+          "end": 1788735600000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:34078",
+      "routeIds": [
+        "10",
+        "12",
+        "13",
+        "1",
+        "2",
+        "3",
+        "4",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "header": "LIRR trains run on a weekend schedule on Labor Day",
+      "description": "",
+      "activePeriods": [
+        {
+          "start": 1788753600000,
+          "end": 1788839940000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:34066",
+      "routeIds": [
+        "2",
+        "2",
+        "2"
+      ],
+      "header": "Westbound trains skip Elmont-UBS Arena, Queens Village, and Hollis",
+      "description": "MTA buses will accept LIRR tickets for travel from Queens Village and Hollis to Jamaica. View a map of your route options.\nElmont-UBS Arena riders should use Bellerose station instead.\n\nFollow this link for information about transferring at the Jamaica Bus Terminal.\n\nWhat's happening?\nAccessibility improvements",
+      "activePeriods": [
+        {
+          "start": 1787018400000,
+          "end": 1787036400000
+        },
+        {
+          "start": 1787104800000,
+          "end": 1787122800000
+        },
+        {
+          "start": 1787191200000,
+          "end": 1787209200000
+        },
+        {
+          "start": 1787277600000,
+          "end": 1787295600000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:34065",
+      "routeIds": [
+        "2",
+        "2",
+        "2"
+      ],
+      "header": "Westbound trains skip Elmont-UBS Arena, Queens Village, and Hollis",
+      "description": "MTA buses will accept LIRR tickets for travel from Queens Village and Hollis to Jamaica. View a map of your route options.\nElmont-UBS Arena riders should use Bellerose station instead.\n\nFollow this link for information about transferring at the Jamaica Bus Terminal.\n\nWhat's happening?\nAccessibility improvements",
+      "activePeriods": [
+        {
+          "start": 1787580000000,
+          "end": 1787598000000
+        },
+        {
+          "start": 1787666400000,
+          "end": 1787684400000
+        },
+        {
+          "start": 1787752800000,
+          "end": 1787770800000
+        },
+        {
+          "start": 1787839200000,
+          "end": 1787857200000
+        },
+        {
+          "start": 1787925600000,
+          "end": 1787943600000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:34064",
+      "routeIds": [
+        "12",
+        "12",
+        "12"
+      ],
+      "header": "No westbound service at Kew Gardens and Forest Hills; westbound trains from Jamaica bypass Woodside",
+      "description": "Westbound trains run nonstop from Jamaica to Manhattan. Port Washington Branch trains continue to stop at Woodside in both directions.\n\nThe subway will allow LIRR riders to enter the following stations at no cost:\nSutphin Blvd-Archer Av [E]\nKew Gardens-Union Turnpike [E][F]\nForest Hills-71 Av [E][F]\nWoodside-61 St [7]\nPresent your LIRR ticket to the station booth agent for access to the subway system.\n\nWhat's happening?\nAccessibility improvements",
+      "activePeriods": [
+        {
+          "start": 1787374800000,
+          "end": 1787425200000
+        },
+        {
+          "start": 1787526000000,
+          "end": 1787558400000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:34063",
+      "routeIds": [
+        "12",
+        "12",
+        "12"
+      ],
+      "header": "No westbound service at Kew Gardens and Forest Hills; westbound trains from Jamaica bypass Woodside",
+      "description": "Westbound trains run nonstop from Jamaica to Manhattan. Port Washington Branch trains continue to stop at Woodside in both directions.\n\nThe subway will allow LIRR riders to enter the following stations at no cost:\nSutphin Blvd-Archer Av [E]\nKew Gardens-Union Turnpike [E][F]\nForest Hills-71 Av [E][F]\nWoodside-61 St [7]\nPresent your LIRR ticket to the station booth agent for access to the subway system.\n\nWhat's happening?\nAccessibility improvements",
+      "activePeriods": [
+        {
+          "start": 1787623200000,
+          "end": 1787648400000
+        },
+        {
+          "start": 1787709600000,
+          "end": 1787734800000
+        },
+        {
+          "start": 1787796000000,
+          "end": 1787821200000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:33957",
+      "routeIds": [
+        "3"
+      ],
+      "header": "Buses replace trains between Locust Valley and Oyster Bay",
+      "description": "What's happening?\nTOBAY Triathlon",
+      "activePeriods": [
+        {
+          "start": 1787486400000,
+          "end": 1787497200000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:33956",
+      "routeIds": [
+        "10",
+        "13",
+        "1",
+        "3",
+        "7"
+      ],
+      "header": "Some LIRR trains run on modified schedules",
+      "description": "Check if your trip is affected on our TrainTime app or at mta.info/schedules.\n\nWhat's happening?\nSwitch replacement",
+      "activePeriods": [
+        {
+          "start": 1787371200000,
+          "end": 1787556600000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:33955",
+      "routeIds": [
+        "2",
+        "2",
+        "2",
+        "10",
+        "10",
+        "10",
+        "4",
+        "4",
+        "4"
+      ],
+      "header": "Westbound trains skip Elmont-UBS Arena, Queens Village, and Hollis",
+      "description": "MTA buses will accept LIRR tickets for travel from Hollis and Queens Village to Jamaica. View a map of your route options.\nNICE buses will accept LIRR tickets for travel from Elmont-UBS Arena to Jamaica.\n\nFollow this link for information about transferring at the Jamaica Bus Terminal.\n\nWhat's happening?\nSwitch replacement",
+      "activePeriods": [
+        {
+          "start": 1787372100000,
+          "end": 1787556600000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:33953",
+      "routeIds": [
+        "2"
+      ],
+      "header": "No Hempstead Branch trains between Manhattan and Floral Park",
+      "description": "Trains run between Floral Park and Hempstead only. Transfer at Floral Park for Huntington or Ronkonkoma Branch trains to and from Manhattan.\nFor Hollis and Queens Village :\nHourly eastbound service will be available on Huntington trains.\nMTA buses will accept LIRR tickets for westbound travel to Jamaica\n.\nFor Elmont-UBS Arena :\nEastbound service will be available on Huntington and Ronkonkoma trains.\nNICE Bus will accept LIRR tickets for westbound travel to Jamaica.\nBellerose station is closed. NICE Bus will accept LIRR tickets on the nearby n24.\nWhat's happening?\nSwitch replacement",
+      "activePeriods": [
+        {
+          "start": 1787372100000,
+          "end": 1787556600000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:33952",
+      "routeIds": [
+        "4"
+      ],
+      "header": "Ronkonkoma Branch service is reduced to hourly and runs on a modified schedule",
+      "description": "Plan your revised trip on our TrainTime app or at mta.info/schedules.\n\nWhat's happening?\nSwitch replacement",
+      "activePeriods": [
+        {
+          "start": 1787371200000,
+          "end": 1787556600000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:33651",
+      "routeIds": [
+        "12",
+        "12",
+        "12"
+      ],
+      "header": "No westbound service at Kew Gardens and Forest Hills; westbound trains from Jamaica bypass Woodside",
+      "description": "Westbound trains run nonstop from Jamaica to Manhattan. Port Washington Branch trains continue to stop at Woodside in both directions.\n\nThe subway will allow LIRR riders to enter the following stations at no cost:\nSutphin Blvd-Archer Av [E]\nKew Gardens-Union Turnpike [E][F]\nForest Hills-71 Av [E][F]\nWoodside-61 St [7]\nPresent your LIRR ticket to the station booth agent for access to the subway system.\n\nWhat's happening?\nAccessibility improvements and track maintenance",
+      "activePeriods": [
+        {
+          "start": 1786975200000,
+          "end": 1786993200000
+        },
+        {
+          "start": 1787061600000,
+          "end": 1787079600000
+        },
+        {
+          "start": 1787234400000,
+          "end": 1787252400000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:33624",
+      "routeIds": [
+        "9"
+      ],
+      "header": "Some trains will add stops at Mets-Willets Point and some evening trains will run on revised schedules",
+      "description": "The following schedule adjustments will be made during the evening rush hour:\nThe 6:06pm train from Grand Central to Port Washington will run non-stop from Mets-Willets Point to Bayside.\nAn extra train will depart Grand Central at 6:10pm, making all stops to Bayside then Great Neck.\nAn extra train will depart Great Neck at 7:08pm, making all stops to Grand Central.\nIf you are going to the US Open or a Mets game, be sure to take your ticket with you as it will be checked at Mets-Willets Point station.\n\nPlan your trip on our TrainTime app or at mta.info/schedules.\n\nWhat's happening?\nUS Open Tennis",
+      "activePeriods": [
+        {
+          "start": 1787574600000,
+          "end": 1787578200000
+        },
+        {
+          "start": 1787603400000,
+          "end": 1787616000000
+        },
+        {
+          "start": 1787661000000,
+          "end": 1787664600000
+        },
+        {
+          "start": 1787689800000,
+          "end": 1787702400000
+        },
+        {
+          "start": 1787747400000,
+          "end": 1787751000000
+        },
+        {
+          "start": 1787776200000,
+          "end": 1787788800000
+        },
+        {
+          "start": 1787833800000,
+          "end": 1787837400000
+        },
+        {
+          "start": 1787862600000,
+          "end": 1787875200000
+        },
+        {
+          "start": 1787920200000,
+          "end": 1787923800000
+        },
+        {
+          "start": 1787949000000,
+          "end": 1787961600000
+        },
+        {
+          "start": 1788179400000,
+          "end": 1788183000000
+        },
+        {
+          "start": 1788208200000,
+          "end": 1788220800000
+        },
+        {
+          "start": 1788265800000,
+          "end": 1788269400000
+        },
+        {
+          "start": 1788294600000,
+          "end": 1788307200000
+        },
+        {
+          "start": 1788352200000,
+          "end": 1788355800000
+        },
+        {
+          "start": 1788381000000,
+          "end": 1788393600000
+        },
+        {
+          "start": 1788438600000,
+          "end": 1788442200000
+        },
+        {
+          "start": 1788467400000,
+          "end": 1788480000000
+        },
+        {
+          "start": 1788525000000,
+          "end": 1788528600000
+        },
+        {
+          "start": 1788553800000,
+          "end": 1788566400000
+        },
+        {
+          "start": 1788870600000,
+          "end": 1788874200000
+        },
+        {
+          "start": 1788899400000,
+          "end": 1788912000000
+        },
+        {
+          "start": 1788957000000,
+          "end": 1788960600000
+        },
+        {
+          "start": 1788985800000,
+          "end": 1788998400000
+        },
+        {
+          "start": 1789043400000,
+          "end": 1789047000000
+        },
+        {
+          "start": 1789072200000,
+          "end": 1789084800000
+        },
+        {
+          "start": 1789129800000,
+          "end": 1789133400000
+        },
+        {
+          "start": 1789158600000,
+          "end": 1789171200000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:33600",
+      "routeIds": [
+        "12"
+      ],
+      "header": "Some LIRR trains will make added stops at Forest Hills for concert attendees",
+      "description": "You must be in one of the first four cars to exit at Forest Hills.\nTake your ticket with you as you leave the train, it will be checked at the station before you can exit.\n\nSee more details on getting to Forest Hills Stadium.",
+      "activePeriods": [
+        {
+          "start": 1787258700000,
+          "end": 1787283000000
+        },
+        {
+          "start": 1787345100000,
+          "end": 1787369400000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:33597",
+      "routeIds": [
+        "3"
+      ],
+      "header": "No Oyster Bay Branch trains running",
+      "description": "Buses run between Mineola and Oyster Bay. Transfer at Mineola for train service to and from Jamaica and Manhattan.\n\nBuses will run in three zones, making all stops along a section of the branch and running non-stop to/from Mineola. Local travel between stops in different zones is not possible.\nEast Williston through Greenvale\nGlen Head through Glen Cove\nLocust Valley and Oyster Bay\nThe last trains to run are the 8:23am from Jamaica and the 9:45am from Oyster Bay. Service resumes with the 3:24pm from Jamaica and 4:34pm from Oyster Bay.\n\nWhat's happening?\nTrack maintenance",
+      "activePeriods": [
+        {
+          "start": 1787060700000,
+          "end": 1787079600000
+        }
+      ]
+    },
+    {
+      "id": "lmm:planned_work:28365",
+      "routeIds": [
+        "12"
+      ],
+      "header": "You must be in the first four cars to exit at Forest Hills in both directions",
+      "description": "What’s Happening?\nAccessibility improvements",
+      "activePeriods": [
+        {
+          "start": 1780387200000,
+          "end": 1814328000000
+        }
+      ]
+    }
+  ]
+}
