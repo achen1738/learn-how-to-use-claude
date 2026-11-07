@@ -1,0 +1,7 @@
+- 2 players, we can denote them by using just player red and blue
+- If invalid moves happen, we return false, but don't break the game. Let them retry (infinitely)
+- - Dropping in a full column
+- - Dropping when it's not their turn
+- - Moving after the game is over
+- Players win if they get 4 in a row, horizontally, diagonally, and vertically
+- Players draw if the board is full

@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm audit *)",
+      "Bash(npm ls *)",
+      "Bash(npx wrangler *)",
+      "Bash(echo \"started with pid $!\")",
+      "WebSearch",
+      "Bash(curl -s -i \"https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/camsys/subway-alerts\")",
+      "Bash(curl -s -i \"https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/camsys/subway-alerts/\")",
+      "Bash(curl -s -i -X OPTIONS \"https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/camsys/subway-alerts\")",
+      "WebFetch(domain:www.mta.info)",
+      "Bash(pkill -f \"wrangler dev\")",
+      "Bash(ipconfig)",
+      "Bash(npm install *)",
+      "Bash(npm view *)",
+      "Bash(npm info *)"
+    ]
+  }
+}

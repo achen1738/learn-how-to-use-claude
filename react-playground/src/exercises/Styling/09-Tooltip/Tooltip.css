@@ -1,0 +1,23 @@
+/* 09 · Tooltip: write your styles here. Prefix classes with .tooltip */
+
+/* Demo layout, already done for you. */
+.tooltip-demo__row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 48px;
+  padding: 48px 24px;
+}
+
+.tooltip-demo__row--end {
+  justify-content: flex-end;
+}
+
+/* Leave this box as it is: it exists to clip your tooltip. */
+.tooltip-demo__clip {
+  overflow: hidden;
+  padding: 12px;
+  border: 1px dashed #9ca3af;
+  border-radius: 8px;
+  width: 200px;
+}

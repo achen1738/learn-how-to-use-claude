@@ -1,0 +1,14 @@
+{
+  "name": "billing-engine",
+  "version": "0.4.2",
+  "private": true,
+  "description": "Builds invoices from line items: currencies, coupons, tax and plan-change proration.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

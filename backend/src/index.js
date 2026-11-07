@@ -46,6 +46,10 @@ function simplifyAlerts(feed) {
       .map((e) => e.routeId)
       .filter(Boolean);
 
+    const stopIds = (alert.informedEntity || [])
+      .map((e) => e.stopId)
+      .filter(Boolean);
+
     const header = alert.headerText?.translation?.[0]?.text ?? null;
     const description = alert.descriptionText?.translation?.[0]?.text ?? null;
 
@@ -57,6 +61,7 @@ function simplifyAlerts(feed) {
     alerts.push({
       id: entity.id,
       routeIds,
+      stopIds,
       header,
       description,
       activePeriods,

@@ -1,0 +1,17 @@
+{
+  "name": "customer-search",
+  "version": "2.1.0",
+  "private": true,
+  "description": "A small query language for filtering customer records: status:active amount>=100 -country:US",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "customer-search": "bin/search.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

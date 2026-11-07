@@ -1,0 +1,26 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "react-playground",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "react-playground"],
+      "port": 5173,
+      "autoPort": true
+    },
+    {
+      "name": "react-playground-node24",
+      "runtimeExecutable": "C:/Users/Arthur/.nvm/versions/node/v24.14.0/bin/node.exe",
+      "runtimeArgs": ["react-playground/node_modules/vite/bin/vite.js", "react-playground"],
+      "port": 5173,
+      "autoPort": true
+    },
+    {
+      "name": "support-inbox",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "react-playground/frontend-integration-practice"],
+      "port": 5174,
+      "autoPort": true
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+    // Debug configs for the bug-squash exercises. They use the nvm-installed
+    // Node 24 explicitly, because the Node on the system PATH is v12, which is
+    // too old for node:test.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug current test file",
+            "runtimeExecutable": "${userHome}/.nvm/versions/node/v24.14.0/bin/node.exe",
+            "program": "${file}",
+            "cwd": "${fileDirname}/..",
+            "skipFiles": ["<node_internals>/**"]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug tests matching a name",
+            "runtimeExecutable": "${userHome}/.nvm/versions/node/v24.14.0/bin/node.exe",
+            "runtimeArgs": ["--test-name-pattern=${input:testNamePattern}"],
+            "program": "${file}",
+            "cwd": "${fileDirname}/..",
+            "skipFiles": ["<node_internals>/**"]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug all tests in this exercise",
+            "runtimeExecutable": "${userHome}/.nvm/versions/node/v24.14.0/bin/node.exe",
+            "runtimeArgs": ["--test"],
+            "cwd": "${fileDirname}/..",
+            "autoAttachChildProcesses": true,
+            "skipFiles": ["<node_internals>/**"]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug search CLI",
+            "runtimeExecutable": "${userHome}/.nvm/versions/node/v24.14.0/bin/node.exe",
+            "program": "${workspaceFolder}/bug-squash/03-search/bin/search.js",
+            "args": ["${input:query}"],
+            "cwd": "${workspaceFolder}/bug-squash/03-search",
+            "console": "integratedTerminal",
+            "skipFiles": ["<node_internals>/**"]
+        }
+    ],
+    "inputs": [
+        {
+            "id": "testNamePattern",
+            "type": "promptString",
+            "description": "Regex matched against test names (use | to pick several)",
+            "default": "sorting everyone|limit keeps"
+        },
+        {
+            "id": "query",
+            "type": "promptString",
+            "description": "Search query",
+            "default": "-status:canceled plan:pro"
+        }
+    ]
+}
